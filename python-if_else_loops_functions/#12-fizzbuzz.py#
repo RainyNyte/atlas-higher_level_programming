@@ -1,0 +1,16 @@
+#!/usr/bin/python3
+def fizzbuzz():
+    for i in range(1, 101):
+        if(i % 3) == 0 and (i % 5) == 0:
+            print("FizzBuzz", end=" ")
+        elif(i % 3) == 0:
+            print("Fizz"#!/usr/bin/env python3
+add = __import__('10-add').add
+
+print(add(1, 2))
+print(add(98, 0))
+print(add(100, -2)))
+        elif(i % 5) == 0:
+            print("Buzz")
+        else:
+            print(f"{i} ")
