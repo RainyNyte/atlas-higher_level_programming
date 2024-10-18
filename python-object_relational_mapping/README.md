@@ -1,0 +1,1 @@
+Learning how to execute SQL queries and opporations in python using MySQLdb and SQLAlchemy
